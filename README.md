@@ -1,12 +1,9 @@
 sparrow
 =======
-
+CSS3实现小麻雀的形象。
 My personnel logo named “sparrow” made by CSS3
 
 # Sparrow
-
-## DEMO
-http://sparrow-9a889.coding.io/
 
 ## 更新日志
 2014-08-25 上传HTML、CSS
